@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-    <a href="https://github.com/digiDevemon/digiDevemon"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/digiDevemon/digiDevemon/graphs/contributors"><img src="https://img.shields.io/github/contributors/digiDevemon/digiDevemon?color=blue"></a>
-    <a href="https://github.com/digiDevemon/digiDevemon/stargazers"><img src="https://img.shields.io/github/stars/digiDevemon/digiDevemon?logo=github"></a>
-    <a href="https://github.com/digiDevemon/digiDevemon/network/members"><img src="https://img.shields.io/github/forks/digiDevemon/digiDevemon?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=digiDevemon" alt="visitors"/>
+    <a href="https://github.com/zettelbee/zettelbee"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/zettelbee/zettelbee/graphs/contributors"><img src="https://img.shields.io/github/contributors/zettelbee/zettelbee?color=blue"></a>
+    <a href="https://github.com/zettelbee/zettelbee/stargazers"><img src="https://img.shields.io/github/stars/zettelbee/zettelbee?logo=github"></a>
+    <a href="https://github.com/zettelbee/zettelbee/network/members"><img src="https://img.shields.io/github/forks/zettelbee/zettelbee?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=zettelbee" alt="visitors"/>
 </p>
 
 ## 📊 GitHub Stats:
 
 <p float="left">
-    <img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=digiDevemon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact' />
-    <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=digiDevemon&theme=dark&hide_border=false' />
+    <img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=zettelbee&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact' />
+    <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=zettelbee&theme=dark&hide_border=false' />
 </p>
 
 # 💻 Tech Stack:
