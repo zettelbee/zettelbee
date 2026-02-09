@@ -3,7 +3,7 @@
 </center>
 
 <!--
-**digiDevemon/digiDevemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zettelbee/zettelbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
